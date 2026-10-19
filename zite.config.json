@@ -1,0 +1,9 @@
+{
+  "id": "m5tkkd2dus",
+  "accessMode": "external",
+  "envVars": {
+    "ZITE_GIPHY_API_KEY": {
+      "description": "GIPHY API key used by the GIF picker in the chat composer"
+    }
+  }
+}
